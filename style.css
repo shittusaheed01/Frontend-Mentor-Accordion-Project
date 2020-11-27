@@ -96,7 +96,7 @@ body{
 #desktop-logo{
     display: none;
 }
-@media only screen and (min-width: 1448px){
+@media only screen and (min-width: 10px){
     #page-content{
         width: 900px;
         height: 80vh;
